@@ -25,8 +25,8 @@ DataMate is an interactive chatbot application designed to help users query and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repository/datamate.git
-   cd datamate
+   git clone https://github.com/Nomaanrizvi/DataMate-a-csv-chatbot.git
+   cd DataMate-a-csv-chatbot
    ```
 
 2. Install dependencies:
@@ -39,9 +39,9 @@ DataMate is an interactive chatbot application designed to help users query and 
 
    - Create a `.env` file in the project root directory with your Google API key:
 
-     ```env
-     GOOGLE_API_KEY=your-google-api-key
-     ```
+   ```env
+   GOOGLE_API_KEY=your-google-api-key
+   ```
 
 ---
 
